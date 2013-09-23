@@ -1,7 +1,6 @@
 # encoding: utf-8
 
 $:.unshift File.expand_path('../lib', __FILE__)
-require 'rspec-formatter-webkit/version'
 
 Gem::Specification.new do |s|
   s.name          = "rspec-formatter-webkit"
