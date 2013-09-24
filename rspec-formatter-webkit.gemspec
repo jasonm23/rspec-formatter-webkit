@@ -4,7 +4,7 @@ $:.unshift File.expand_path('../lib', __FILE__)
 
 Gem::Specification.new do |s|
   s.name          = "rspec-formatter-webkit"
-  s.version       = "2.2.1a"
+  s.version       = "2.2.1b"
   s.authors       = ["Michael Granger"]
   s.email         = ["ged@FaerieMUD.org"]
   s.homepage      = "https://rubygems.org/gems/rspec-formatter-webkit"
